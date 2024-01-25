@@ -41,7 +41,8 @@ public class FirstExercise {
     }
 
     public static void methodThird() {
-        System.out.println("U+267E");
+        System.out.println("\u2764 ");
+        System.out.println("\u1F601");
     }
 
 
